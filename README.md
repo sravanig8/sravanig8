@@ -1,21 +1,30 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:9370DB&height=200&section=header&text=Sravani%20Pathivada&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<h1 align="center">Hi 👋, I'm Sravani</h1>
+<h3 align="center">AI • IoT • Full-Stack Development</h3>
 
-<p align="center"></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=3rd+Year+IT+Student;AI+%26+IoT+Enthusiast;Django+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/sravanig8)
-[![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-darkgreen)](https://www.djangoproject.com/)
-[![AI](https://img.shields.io/badge/AI-Projects-purple)](#)
-[![IoT](https://img.shields.io/badge/IoT-Systems-orange)](#)
+<p align="center">
+  <a href="https://github.com/sravanig8">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-blue?logo=python">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-darkgreen?logo=django">
+  </a>
+  <img src="https://img.shields.io/badge/AI-Projects-purple">
+  <img src="https://img.shields.io/badge/IoT-Systems-orange">
+</p>
 
-<div size='20px'> 
-Hi! My name is Sravani Pathivada. Thank you for taking the time to view my GitHub profile 😊
+<div align="center">
+Hi! My name is <b>Sravani Pathivada</b>. Thank you for visiting my GitHub profile 😊
 </div>
 
 ---
@@ -24,7 +33,7 @@ Hi! My name is Sravani Pathivada. Thank you for taking the time to view my GitHu
 <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px">
 </h2>
 
-<img width="55%" align="right" alt="Female Developer" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img width="55%" align="right" alt="Female Developer" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" />
 
 - 🚀 Passionate about turning real-world problems into intelligent AI and IoT solutions.  
 - 🎓 3rd-year B.Tech IT student at VRSEC.  
@@ -38,14 +47,25 @@ Hi! My name is Sravani Pathivada. Thank you for taking the time to view my GitHu
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 </h2>
 
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"></a>
+<p>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+</p>
+
+---
+
+<h2> GitHub Stats </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sravanig8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravanig8&theme=tokyonight" />
+</p>
 
 ---
 
