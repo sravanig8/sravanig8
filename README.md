@@ -24,7 +24,7 @@ Hi! My name is Sravani Pathivada. Thank you for taking the time to view my GitHu
 <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px">
 </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Female Developer" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🚀 Passionate about turning real-world problems into intelligent AI and IoT solutions.  
 - 🎓 3rd-year B.Tech IT student at VRSEC.  
