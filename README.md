@@ -33,8 +33,6 @@ Hi! My name is <b>Sravani Pathivada</b>. Thank you for visiting my GitHub profil
 <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px">
 </h2>
 
-<img width="55%" align="right" alt="Female Developer" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" />
-
 - 🚀 Passionate about turning real-world problems into intelligent AI and IoT solutions.  
 - 🎓 3rd-year B.Tech IT student at VRSEC.  
 - 🌱 Currently strengthening my skills in DSA, Django, and Generative AI.  
