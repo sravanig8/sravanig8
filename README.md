@@ -44,7 +44,6 @@ Hi! My name is <b>Sravani Pathivada</b>. Thank you for visiting my GitHub profil
 ---
 
 <h2> Skills 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 </h2>
 
 <p>
